@@ -1,5 +1,8 @@
 var row=1;
 
+var entry = document.getElementById("id");
+entry.addEventListener("click",datamasuk);
+
 alert('Assalamualaikum #nuhasquad, welcome to NUHA ARSAL WEBSITE!')
 
 function datamasuk(){
